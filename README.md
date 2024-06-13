@@ -1,5 +1,7 @@
 # Online Store Inventory and Supplier Management API
 
+The Postman collection can be found [here](https://link-to-your-postman-collection).
+
 ## Setup Instructions
 
 1. Clone the repository:
