@@ -1,8 +1,15 @@
 # Online Store Inventory and Supplier Management API
 
-The Postman collection can be found [here](https://link-to-your-postman-collection).
+Welcome to the Online Store Inventory and Supplier Management API! This API allows you to manage items and suppliers for an online store.
+
+The Postman collection can be found [here](https://documenter.getpostman.com/view/20850921/2sA3XPE3bM).
+
+
+
 
 ## Setup Instructions
+
+To run the project locally follow the instructions below
 
 1. Clone the repository:
     ```bash
@@ -11,7 +18,7 @@ The Postman collection can be found [here](https://link-to-your-postman-collecti
 
 2. Navigate to the project directory:
     ```bash
-    cd online_store
+    cd prioritysoft_task
     ```
 
 3. Install dependencies:
@@ -37,7 +44,7 @@ The Postman collection can be found [here](https://link-to-your-postman-collecti
 - **Create Item:** `POST /api/items/`
 - **Get All Items:** `GET /api/items/`
 - **Get Item by ID:** `GET /api/items/{id}/`
-- **Update Item:** `PUT /api/items/{id}/`
+- **Update Item:** `PATCH /api/items/{id}/`
 - **Delete Item:** `DELETE /api/items/{id}/`
 - **Get Suppliers for Item:** `GET /api/items/{item_id}/suppliers/`
 
@@ -45,7 +52,7 @@ The Postman collection can be found [here](https://link-to-your-postman-collecti
 - **Create Supplier:** `POST /api/suppliers/`
 - **Get All Suppliers:** `GET /api/suppliers/`
 - **Get Supplier by ID:** `GET /api/suppliers/{id}/`
-- **Update Supplier:** `PUT /api/suppliers/{id}/`
+- **Update Supplier:** `PATCH /api/suppliers/{id}/`
 - **Delete Supplier:** `DELETE /api/suppliers/{id}/`
 - **Get Items for Supplier:** `GET /api/suppliers/{supplier_id}/items/`
 
