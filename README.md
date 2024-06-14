@@ -5,7 +5,7 @@ Welcome to the Online Store Inventory and Supplier Management API! This API allo
 The Postman collection can be found [here](https://documenter.getpostman.com/view/20850921/2sA3XPE3bM).
 
 
-
+Check out the project Overview [here](https://www.loom.com/share/69f2287e3d1c48a1984a5e02585e87a3?sid=458b016b-4b48-43d3-aaa2-0940fa3cb2dd)
 
 ## Setup Instructions
 
